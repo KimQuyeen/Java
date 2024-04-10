@@ -1,0 +1,6 @@
+ID: 1, FullName: John Doe, BirthDay: 1990-01-01, Phone: 123456789, Email: john.doe@example.com, Employee_type: Experience, Employee_count: 1, ExpInYear: 5, ProSkill: Java
+ID: 2, FullName: Jane Smith, BirthDay: 1995-01-01, Phone: 987654321, Email: jane.smith@example.com, Employee_type: Fresher, Employee_count: 2, GraduationDate: 2020-01-01, GraduationRank: Good, Education: ABC University
+ID: 3, FullName: Tom Johnson, BirthDay: 2000-01-01, Phone: 555555555, Email: tom.johnson@example.com, Employee_type: Intern, Employee_count: 3, Majors: Computer Science, Semester: Spring 2024, UniversityName: XYZ University
+ID: 1, FullName: John Doe, BirthDay: 1990-01-01, Phone: 123456789, Email: john.doe@example.com, Employee_type: Experience, Employee_count: 1, ExpInYear: 5, ProSkill: Java
+ID: 2, FullName: Jane Smith, BirthDay: 1995-01-01, Phone: 987654321, Email: jane.smith@example.com, Employee_type: Fresher, Employee_count: 2, GraduationDate: 2020-01-01, GraduationRank: Good, Education: ABC University
+ID: 3, FullName: Tom Johnson, BirthDay: 2000-01-01, Phone: 555555555, Email: tom.johnson@example.com, Employee_type: Intern, Employee_count: 3, Majors: Computer Science, Semester: Spring 2024, UniversityName: XYZ University
